@@ -1,0 +1,1 @@
+<div id="pied">Copyright DIC3 ESP &copy; Novembre 2022</div>
